@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quantic/Tobias
 - 👀 I’m interested in physic, AI, technology
 - 🌱 I’m currently learning C#, game design and AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI programming and game programming
 - 📫 How to reach me tobias@aquaticon.icu
 
 <!---
